@@ -1,0 +1,23 @@
+Galdust Exercise
+========
+
+This is a small exercise using galdust, for pedagogical purposes.
+
+Status: This are NOT suitable for scientific usage. I'm a master student.
+
+Instalation
+------------
+* 1. Download the code
+* 2. execute `cd galdust_exercise & pip install -e .`
+
+Usage
+------
+
+Run the exercise
+`galdust_exercise`
+
+Run the exercise and write a fits table for each model
+`galdust_exercise fits`
+
+Make plots
+`galdust_exercise plots`
